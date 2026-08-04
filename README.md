@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sara Ayman</h1>
 
-<h3 align="center">
-AI & Machine Learning Enthusiast | Python Developer
-</h3>
+<h3 align="center">🤖 AI & Machine Learning Student | 🐍 Python Developer</h3>
 
 <p align="center">
-I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning and Data Science.
-I enjoy building real-world projects and continuously improving my technical skills.
+  Passionate about Artificial Intelligence, Machine Learning and Data Science .
+  <br>
+  I love building practical projects and continuously improving my skills.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=saraayman-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things🚀" />
 </p>
 
 ---
@@ -18,11 +17,16 @@ I enjoy building real-world projects and continuously improving my technical ski
 # 👩‍💻 About Me
 
 - 🎓 Computer Science Student
-- 🤖 Passionate about AI & Machine Learning
+- 🤖 AI & Machine Learning Enthusiast
 - 🐍 Python Developer
-- 🌱 Currently learning Machine Learning, Deep Learning
-- 🚀 Building practical AI & Web projects
-- 💡 Interested in solving real-world problems using AI
+- 📊 Interested in Data Science
+- 🚀 Building AI & Web Projects
+- 🌱 Currently learning
+  - Machine Learning
+  - Deep Learning
+  - NLP
+  - Computer Vision
+    
 
 ---
 
@@ -34,87 +38,67 @@ I enjoy building real-world projects and continuously improving my technical ski
 
 </p>
 
-### AI / Data Science
+### AI Libraries
 
 - NumPy
 - Pandas
 - Matplotlib
 - Scikit-Learn
-- TensorFlow 
-- PyTorch 
-
----
-
-# 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- deployment
+- TensorFlow
+- PyTorch
 
 ---
 
 # 📌 Featured Projects
 
 ### 🎫 HelpDesk Lite
-Internal support ticket system with Jira planning and GitHub workflow.
+Internal Support Ticket System
 
 ### 🩺 Liver Cirrhosis Prediction
-Machine Learning model for disease prediction.
+Machine Learning disease prediction model.
 
 ### 📊 Data Analysis Projects
-Cleaning, visualization and insights using Python.
+Data Cleaning, Visualization & Insights.
 
 ### 🤖 AI Projects
-More AI applications coming soon...
+More projects coming soon...
 
 ---
 
-# 📈 GitHub Stats
+# 📚 2026 Goals
+
+- ✅ Master Machine Learning
+- ✅ Learn Deep Learning
+- ✅ Build AI Portfolio
+- ✅ Contribute to Open Source
+- ✅ Land AI Internship
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saraayman-dev&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraayman-dev&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=saraayman-dev&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saraayman-dev&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sara-ayman10">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/www.linkedin.com/in/sara-ayman10">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:sara4860665@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote
+# 💙 Favorite Quote
 
-> *"Success comes from consistency, not perfection."* 🚀
+> **"Small progress every day leads to big results."** 🚀
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>

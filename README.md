@@ -75,8 +75,8 @@ More AI applications coming soon...
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saraayman-dev&show_icons=true&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saraayman-dev&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraayman-dev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ More AI applications coming soon...
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saraayman-dev&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saraayman-dev&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---

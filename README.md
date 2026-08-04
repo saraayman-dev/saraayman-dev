@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Sara Ayman
 
-<!--
-**saraayman-dev/saraayman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 AI & Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Developer
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Git & GitHub
+- SQL
+  
+
+## Currently Learning
+
+- Machine Learning
+- Deep Learning
+- NLP
+
+
+## Projects
+
+- HelpDesk Lite
+- Liver Cirrhosis Prediction
+- More AI Projects Coming Soon 🚀
+
+📫 Email:
+sara486065@gmail.com
+
+💼 LinkedIn:
+linkedin.com/in/sara-ayman10

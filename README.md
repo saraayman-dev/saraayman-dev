@@ -75,7 +75,7 @@ More AI applications coming soon...
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/saraayman-dev/saraayman-dev&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saraayman-dev&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
@@ -87,7 +87,7 @@ More AI applications coming soon...
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=https://github.com/saraayman-dev/saraayman-dev&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?username=saraayman-dev&theme=tokyonight"/>
 
 </p>
 
@@ -97,7 +97,7 @@ More AI applications coming soon...
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/saraayman-dev/saraayman-dev&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saraayman-dev&theme=tokyonight&margin-w=10"/>
 
 </p>
 
@@ -107,7 +107,7 @@ More AI applications coming soon...
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/sara-ayman10">
+<a href="https://www.linkedin.com/in/sara-ayman10">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 

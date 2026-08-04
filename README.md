@@ -79,7 +79,7 @@ More projects coming soon...
 
 <p align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/sara-ayman10">
+<a href="https://linkedin.com/in/sara-ayman10">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

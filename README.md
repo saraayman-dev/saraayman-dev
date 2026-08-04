@@ -13,7 +13,7 @@ Computer Science Student passionate about Artificial Intelligence, Machine Learn
 - 🤖 Interested in AI & Machine Learning
 - 🌱 Currently learning Machine Learning, Deep Learning & Backend
 - 💻 Building practical AI projects
-- 📫 Reach me: **sara486665@gmail.com**
+- 📫 Reach me: **sara4860665@gmail.com**
 
 ---
 
@@ -40,9 +40,7 @@ Computer Science Student passionate about Artificial Intelligence, Machine Learn
 
 <p align="left">
 
-<a href="www.linkedin.com/in/sara-ayman10
-
-">
+<a href="www.linkedin.com/in/sara-ayman10">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -58,7 +56,7 @@ Computer Science Student passionate about Artificial Intelligence, Machine Learn
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarayman-dev&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saraayman-dev&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraayman-dev&layout=compact&theme=tokyonight"/>
 

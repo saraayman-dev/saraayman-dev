@@ -30,7 +30,7 @@ I enjoy building real-world projects and continuously improving my technical ski
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,excel,power bi"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql"/>
 
 </p>
 
@@ -77,8 +77,6 @@ More AI applications coming soon...
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=saraayman-dev&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -87,8 +85,7 @@ More AI applications coming soon...
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?username=saraayman-dev&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=saraayman-dev&theme=tokyonight"/>
 </p>
 
 ---
@@ -98,7 +95,6 @@ More AI applications coming soon...
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=saraayman-dev&theme=tokyonight&margin-w=10"/>
-
 </p>
 
 ---
